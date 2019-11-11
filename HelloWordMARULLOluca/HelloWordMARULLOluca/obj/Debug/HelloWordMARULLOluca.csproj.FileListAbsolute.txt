@@ -1,0 +1,6 @@
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\Marul\HelloWordMARULLOluca-master\HelloWordMARULLOluca\HelloWordMARULLOluca\bin\Debug\HelloWordMARULLOluca.exe.config
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\Marul\HelloWordMARULLOluca-master\HelloWordMARULLOluca\HelloWordMARULLOluca\bin\Debug\HelloWordMARULLOluca.exe
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\Marul\HelloWordMARULLOluca-master\HelloWordMARULLOluca\HelloWordMARULLOluca\bin\Debug\HelloWordMARULLOluca.pdb
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\Marul\HelloWordMARULLOluca-master\HelloWordMARULLOluca\HelloWordMARULLOluca\obj\Debug\HelloWordMARULLOluca.csprojAssemblyReference.cache
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\Marul\HelloWordMARULLOluca-master\HelloWordMARULLOluca\HelloWordMARULLOluca\obj\Debug\HelloWordMARULLOluca.exe
+C:\Users\arthu\OneDrive\Bureau\3ème\C#\Labo\Marul\HelloWordMARULLOluca-master\HelloWordMARULLOluca\HelloWordMARULLOluca\obj\Debug\HelloWordMARULLOluca.pdb
